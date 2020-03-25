@@ -1,4 +1,11 @@
-# Be The Hero
+<h1 align="center">
+    <img alt="Be The Heo" title="Be The Hero" src="./frontend/src/assets/logo.svg" width="250px" />
+</h1>
+<h4 align="center">
+  🦸‍♂️ Be The Hero 🦸‍♀️
+</h4>
+
+# 
 
 ## 💡 A Ideia
 Conectar pessoas que têm vontade de ajudar de forma monetária ONG's, que muitas das vezes precisam de recursos para tratar de alguns casos específicos.
